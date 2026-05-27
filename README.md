@@ -19,7 +19,9 @@ https://raw.githubusercontent.com/<org-or-username>/<repo>/main/ics_files/<filen
 | `MIT_SFMBA_Summer_2026_SectionA.ics` | Summer term — Section A only |
 | `MIT_SFMBA_Summer_2026_SectionB.ics` | Summer term — Section B only |
 | `15809_Marketing_Strategy.ics` | 15.809 Marketing & Strategy |
-| `15338_Leadership_Teams_Lab.ics` | 15.338 Leadership Teams lab | 
+| `15338_Leadership_Teams_Lab.ics` | 15.338 Leadership & Teams Lab — shared events only (plenaries, assignments) |
+| `15338_Leadership_Teams_Lab_SectionA.ics` | 15.338 Leadership & Teams Lab — Section A (shared + Section A POD/Team Chartering) |
+| `15338_Leadership_Teams_Lab_SectionB.ics` | 15.338 Leadership & Teams Lab — Section B (shared + Section B POD/Team Chartering) |
 
 ### Adding to Apple Calendar
 

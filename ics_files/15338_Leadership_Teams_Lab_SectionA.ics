@@ -3,11 +3,11 @@ VERSION:2.0
 PRODID:-//MIT SFMBA 2027//Syllabus ICS Generator//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:MIT SFMBA | 15.338
+X-WR-CALNAME:MIT SFMBA | 15.338 | Section A
 X-WR-TIMEZONE:America/New_York
-X-WR-CALDESC:15.338 Leadership & Teams Lab - MIT Sloan Fellows MBA 2026-2027
+X-WR-CALDESC:15.338 Leadership & Teams Lab (Section A) - MIT Sloan Fellows MBA 2026-2027
 BEGIN:VEVENT
-UID:f202343d-16a1-4297-a816-045cc3c9d721@mit.sfmba.2027
+UID:39bc9afc-7310-4387-876d-39c2b91de07c@mit.sfmba.2027
 SUMMARY:15.338 | DUE: Course Pre-Work
 DESCRIPTION:Course Pre-Work due. Includes: Asynchronous Learning Modules (Intro to Executive Leadership Coaching video\, 4-CAPS+ Leadership Framework); pre-readings (Argyris 1991\; Coutu 2009\; Meyer 2014\; Fernandes 2022); x360 Leadership Survey; Coaching Agreement; 15.338 Baseline Survey; optional Ignis AI Skills activity. See Canvas.
 DTSTART;TZID=America/New_York:20260607T235900
@@ -22,7 +22,7 @@ DESCRIPTION:Course pre-work due in 24 hours
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:409a755d-faf7-43ce-a7bd-2afb3794c468@mit.sfmba.2027
+UID:8191bd40-e1f3-4da2-9d97-b06fccf0b053@mit.sfmba.2027
 SUMMARY:15.338 | Welcome\, Introduction\, and Course Overview
 DESCRIPTION:Plenary session: Welcome\, Introduction\, and Course Overview.
 DTSTART;TZID=America/New_York:20260608T083000
@@ -42,7 +42,7 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a24fcd31-d56d-44b7-8b99-7d8c1d96ed28@mit.sfmba.2027
+UID:47051739-80c3-4824-8a54-c3d87ab34dfb@mit.sfmba.2027
 SUMMARY:15.338 | Growth Mindset and Personization
 DESCRIPTION:Plenary session: Growth Mindset and Personization.
 DTSTART;TZID=America/New_York:20260608T101500
@@ -62,7 +62,7 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:dac2f16f-171e-45fe-ab1d-eda3d9b3da73@mit.sfmba.2027
+UID:f6e6cfb1-53ce-47b8-b06e-3153fcc7d1f1@mit.sfmba.2027
 SUMMARY:15.338 | Psychological Safety
 DESCRIPTION:Plenary session: Psychological Safety.
 DTSTART;TZID=America/New_York:20260608T130000
@@ -82,7 +82,27 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9f01670e-53f7-4c6d-841b-0456783fd825@mit.sfmba.2027
+UID:cf69f38c-dd3e-40d5-af0e-ffdeee5f4423@mit.sfmba.2027
+SUMMARY:15.338 | Leadership POD Meeting #1: Creating Psychological Safety (Section A)
+DESCRIPTION:Section A: Leadership POD Meeting #1 — Creating Psychological Safety.
+DTSTART;TZID=America/New_York:20260608T144500
+DTEND;TZID=America/New_York:20260608T161500
+DTSTAMP:20260527T120000Z
+CREATED:20260527T120000Z
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:POD meeting tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:POD meeting in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1f214b64-1a2d-40f3-9f74-5367d8a4d163@mit.sfmba.2027
 SUMMARY:15.338 | Understanding Emotions
 DESCRIPTION:Plenary session: Understanding Emotions.
 DTSTART;TZID=America/New_York:20260609T083000
@@ -102,7 +122,7 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:469491d5-5403-47b4-84ce-b40d0699a7e4@mit.sfmba.2027
+UID:2e1a87e9-cb4d-4236-a222-cedfa43fd8c7@mit.sfmba.2027
 SUMMARY:15.338 | Guest Speaker
 DESCRIPTION:Plenary session: Guest Speaker.
 DTSTART;TZID=America/New_York:20260609T094500
@@ -122,7 +142,7 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:e19b2c9a-ff69-4bb9-a6af-f42781a487dc@mit.sfmba.2027
+UID:5dd5a827-6015-44d6-bba7-ea46e73e554f@mit.sfmba.2027
 SUMMARY:15.338 | Adult Psychological Development and Emotional Regulation
 DESCRIPTION:Plenary session: Adult Psychological Development and Emotional Regulation.
 DTSTART;TZID=America/New_York:20260609T130000
@@ -142,7 +162,27 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:cd79d799-c877-4d61-bd07-1d31cd247462@mit.sfmba.2027
+UID:a35bba6b-86f4-40f5-b009-6be891c12007@mit.sfmba.2027
+SUMMARY:15.338 | Leadership POD Meeting #2: Share Your Story (Section A)
+DESCRIPTION:Section A: Leadership POD Meeting #2 — Share Your Story.
+DTSTART;TZID=America/New_York:20260609T163000
+DTEND;TZID=America/New_York:20260609T180000
+DTSTAMP:20260527T120000Z
+CREATED:20260527T120000Z
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:POD meeting tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:POD meeting in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d3feae52-d12c-4648-9e2c-39dc6ba782dc@mit.sfmba.2027
 SUMMARY:15.338 | DUE: "Perspective Taking and Perspective Getting" video
 DESCRIPTION:Watch "Perspective Taking and Perspective Getting" video — due 11:59pm. See Canvas for details.
 DTSTART;TZID=America/New_York:20260609T235900
@@ -157,7 +197,7 @@ DESCRIPTION:Assignment due in 24 hours
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:d1de0522-db42-4cfd-bfbb-a123dd300eec@mit.sfmba.2027
+UID:66e93bed-5a17-4ff6-810a-ecb5a463df20@mit.sfmba.2027
 SUMMARY:15.338 | Guest Speaker
 DESCRIPTION:Plenary session: Guest Speaker.
 DTSTART;TZID=America/New_York:20260610T083000
@@ -177,7 +217,7 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f87fab99-48c7-4865-a4ec-a56f5092736d@mit.sfmba.2027
+UID:8af07ecc-be66-4200-b477-e45a5e57cb87@mit.sfmba.2027
 SUMMARY:15.338 | Cross Cultural Awareness
 DESCRIPTION:Plenary session: Cross Cultural Awareness.
 DTSTART;TZID=America/New_York:20260610T094500
@@ -197,7 +237,7 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5de33b94-0f58-40ea-a03f-cba247c13d30@mit.sfmba.2027
+UID:6a8be22b-0271-46b2-932f-121a800889e7@mit.sfmba.2027
 SUMMARY:15.338 | Giving and Receiving Effective Feedback
 DESCRIPTION:Plenary session: Giving and Receiving Effective Feedback.
 DTSTART;TZID=America/New_York:20260610T130000
@@ -217,7 +257,47 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:f0aa0f98-6efb-45e4-baa5-8b73bdf01368@mit.sfmba.2027
+UID:5f1c998a-a47c-4813-bb1b-5589b417400a@mit.sfmba.2027
+SUMMARY:15.338 | Leadership POD Meeting #3: Expressive and Reserved Patterns (Section A)
+DESCRIPTION:Section A: Leadership POD Meeting #3 — Expressive and Reserved Patterns of Behavior.
+DTSTART;TZID=America/New_York:20260610T144500
+DTEND;TZID=America/New_York:20260610T161500
+DTSTAMP:20260527T120000Z
+CREATED:20260527T120000Z
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:POD meeting tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:POD meeting in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fb8b0747-ff9a-4010-a04f-1721ed4e03af@mit.sfmba.2027
+SUMMARY:15.338 | Team Chartering with Study Group (Section A)
+DESCRIPTION:Section A: Team Chartering with Study Group.
+DTSTART;TZID=America/New_York:20260610T163000
+DTEND;TZID=America/New_York:20260610T180000
+DTSTAMP:20260527T120000Z
+CREATED:20260527T120000Z
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Team chartering tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Team chartering in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8980c992-fe0a-459a-ab87-6cb0a45a5bea@mit.sfmba.2027
 SUMMARY:15.338 | DUE: Study Group Charter at Launch
 DESCRIPTION:Submit Study Group Charter at Launch by 11:59pm. 5% of grade (P/F). See Canvas.
 DTSTART;TZID=America/New_York:20260612T235900
@@ -232,7 +312,7 @@ DESCRIPTION:Study Group Charter due tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:0ca599ce-6bec-4fd1-9afe-e87202762cb4@mit.sfmba.2027
+UID:46ed06cd-1dd6-4f78-a684-52ddf9326a23@mit.sfmba.2027
 SUMMARY:15.338 | DUE: Leadership POD Introduction Video
 DESCRIPTION:Create and submit Leadership POD Introduction Video by 11:59pm. See Canvas for details.
 DTSTART;TZID=America/New_York:20260614T235900
@@ -247,7 +327,7 @@ DESCRIPTION:POD Intro Video due tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:9ef8f2b5-9913-42a8-86a3-a3902c5f382b@mit.sfmba.2027
+UID:430bffa8-90e4-4cef-a8ea-ac9d6b13718d@mit.sfmba.2027
 SUMMARY:15.338 | Coaching Session #1 window opens (complete by June 30)
 DESCRIPTION:Individual Coaching Session #1 — schedule and complete between June 11 and June 30.
 DTSTART;VALUE=DATE:20260611
@@ -257,7 +337,7 @@ CREATED:20260527T120000Z
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:06e294e7-77f3-4295-9e8e-a1679ede8cc6@mit.sfmba.2027
+UID:1debe609-ec9e-4eb7-a107-1177fffb324e@mit.sfmba.2027
 SUMMARY:15.338 | Practical Intensives offered (Week of June 22)
 DESCRIPTION:Practical Intensives are offered this week. Two intensive sessions required during the summer (June 24 – August 12). See Canvas for offerings.
 DTSTART;VALUE=DATE:20260622
@@ -267,7 +347,7 @@ CREATED:20260527T120000Z
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:9e58983d-5868-49a0-9fc3-348780c4e1e4@mit.sfmba.2027
+UID:8fb6e218-f8ba-4950-a80c-4c2b42b39b77@mit.sfmba.2027
 SUMMARY:15.338 | DUE: POD Meeting #4 — Four Player Team Model (by July 2)
 DESCRIPTION:Leadership POD Meeting #4 — Four Player Team Model. Preferred completion during week of June 22; latest by July 2 (June 30 if not done previous week).
 DTSTART;VALUE=DATE:20260702
@@ -277,7 +357,7 @@ CREATED:20260527T120000Z
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:a4c2af38-2089-4b3d-b20f-cd1fb3f9af86@mit.sfmba.2027
+UID:ad4cb4d9-d8f3-4064-80eb-be7174b724f7@mit.sfmba.2027
 SUMMARY:15.338 | Practical Intensives offered (Week of July 6)
 DESCRIPTION:Practical Intensives are offered this week. Two intensive sessions required during the summer.
 DTSTART;VALUE=DATE:20260706
@@ -287,7 +367,7 @@ CREATED:20260527T120000Z
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:e3f1f50f-c6fc-4b40-80cf-b2867c15fea7@mit.sfmba.2027
+UID:0a273894-0b33-46f2-ae2e-1f2186234d9b@mit.sfmba.2027
 SUMMARY:15.338 | DUE: Reflection Paper #1
 DESCRIPTION:Reflection Paper #1 — 20% of grade. Submit by 11:59pm via Canvas. AI/ML tools may NOT be used for substance.
 DTSTART;TZID=America/New_York:20260712T235900
@@ -302,7 +382,7 @@ DESCRIPTION:Reflection Paper #1 due tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a8830155-b5c1-4360-82a4-c413454ac238@mit.sfmba.2027
+UID:fea1e8f0-b326-49eb-bdbc-ea2f0a0b208e@mit.sfmba.2027
 SUMMARY:15.338 | Team Basics
 DESCRIPTION:Plenary session: Team Basics.
 DTSTART;TZID=America/New_York:20260715T090000
@@ -322,7 +402,7 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:70562785-f6da-4df2-92e9-da93ca6e8019@mit.sfmba.2027
+UID:ed7b38de-268e-4c3b-b983-b080cc7b9b23@mit.sfmba.2027
 SUMMARY:15.338 | Surfacing and Resolving Team Conflict
 DESCRIPTION:Plenary session: Surfacing and Resolving Team Conflict.
 DTSTART;TZID=America/New_York:20260715T104500
@@ -342,7 +422,27 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:c8a86900-1c7f-4712-b4d3-7c489f50a242@mit.sfmba.2027
+UID:f0ea2e28-4e39-4428-897c-209138ef23b8@mit.sfmba.2027
+SUMMARY:15.338 | Leadership POD Meeting #5: Managing Conflict and Misalignment (Section A)
+DESCRIPTION:Section A: Leadership POD Meeting #5 — Managing Conflict and Misalignment.
+DTSTART;TZID=America/New_York:20260715T144500
+DTEND;TZID=America/New_York:20260715T161500
+DTSTAMP:20260527T120000Z
+CREATED:20260527T120000Z
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:POD meeting tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:POD meeting in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e89cffbb-1db0-4d92-94c8-2075e529fa8d@mit.sfmba.2027
 SUMMARY:15.338 | Leveraging Diversity in Teams
 DESCRIPTION:Plenary session: Leveraging Diversity in Teams.
 DTSTART;TZID=America/New_York:20260716T083000
@@ -362,7 +462,7 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:58a5a319-2c4d-4059-8a40-bd8f780d19a8@mit.sfmba.2027
+UID:96d4c551-d74e-4f43-9543-4a2f4c1b7075@mit.sfmba.2027
 SUMMARY:15.338 | Guest Speaker
 DESCRIPTION:Plenary session: Guest Speaker.
 DTSTART;TZID=America/New_York:20260716T101500
@@ -382,7 +482,7 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:62d6fa27-9ba8-4d03-b5d9-b9ad70ba264d@mit.sfmba.2027
+UID:c6be9ec1-2aec-4a2c-ab45-1c6e18afd525@mit.sfmba.2027
 SUMMARY:15.338 | Study Group Reset: Revisit Team Charter
 DESCRIPTION:Plenary session: Study Group Reset Opportunity — Revisit Team Charter. Revised charter due by end of session (1:30pm).
 DTSTART;TZID=America/New_York:20260716T113000
@@ -402,7 +502,7 @@ DESCRIPTION:Study Group Reset in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:a93ab6ed-645d-4a1a-9be0-7cfcc77cde0c@mit.sfmba.2027
+UID:68e39e0e-6f8a-4cfe-b81f-d22737d5dc62@mit.sfmba.2027
 SUMMARY:15.338 | DUE: Revised Study Group Charter (Reset)
 DESCRIPTION:Submit Revised Study Group Charter by 1:30pm. 5% of grade (P/F). See Canvas.
 DTSTART;TZID=America/New_York:20260716T133000
@@ -417,7 +517,7 @@ DESCRIPTION:Revised Study Group Charter due tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:5e641c3b-f858-4033-972d-653fa6e8f4ce@mit.sfmba.2027
+UID:6c336671-e144-4a05-9219-f00eb1e19700@mit.sfmba.2027
 SUMMARY:15.338 | DUE: Growth Plan Draft 1
 DESCRIPTION:Growth Plan Draft 1 — 10% of grade (Pass/Redo). Submit by 11:59pm via Canvas. AI/ML tools may NOT be used for substance.
 DTSTART;TZID=America/New_York:20260720T235900
@@ -432,7 +532,7 @@ DESCRIPTION:Growth Plan Draft 1 due tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:1288e223-09ed-4c3e-84a6-142f44f90536@mit.sfmba.2027
+UID:91a71732-29ce-418a-ac9d-e56cbb6bb976@mit.sfmba.2027
 SUMMARY:15.338 | Coaching Session #2 window opens (complete by August 14)
 DESCRIPTION:Individual Coaching Session #2 — schedule and complete by August 14.
 DTSTART;VALUE=DATE:20260720
@@ -442,7 +542,7 @@ CREATED:20260527T120000Z
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:51c61725-4971-4d88-90fc-aed95244d5c3@mit.sfmba.2027
+UID:c787072f-b3eb-4a6e-87c5-9b20d36eb5f2@mit.sfmba.2027
 SUMMARY:15.338 | Practical Intensives offered (Week of July 20)
 DESCRIPTION:Practical Intensives are offered this week. Two intensive sessions required during the summer.
 DTSTART;VALUE=DATE:20260720
@@ -452,7 +552,7 @@ CREATED:20260527T120000Z
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:d1c0ddfe-4263-495c-b35a-7e3b24ae7890@mit.sfmba.2027
+UID:be0ae272-7320-45fd-90e3-a98e694a7abd@mit.sfmba.2027
 SUMMARY:15.338 | DUE: POD Meeting #6 — Synthesizing Learnings (by Aug 7)
 DESCRIPTION:Leadership POD Meeting #6 — Synthesizing Learnings and Feedback. Complete meeting by August 7.
 DTSTART;VALUE=DATE:20260807
@@ -462,7 +562,7 @@ CREATED:20260527T120000Z
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:b811e6a0-2635-4783-9f90-8177f1c87295@mit.sfmba.2027
+UID:ffd0241e-0546-49b2-84cb-6c6ad64568de@mit.sfmba.2027
 SUMMARY:15.338 | Practical Intensives offered (Week of August 10)
 DESCRIPTION:Practical Intensives are offered this week. Final window — two intensives required by August 12.
 DTSTART;VALUE=DATE:20260810
@@ -472,7 +572,7 @@ CREATED:20260527T120000Z
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:f219bba5-1a2b-4357-b0f5-88f91e116f15@mit.sfmba.2027
+UID:d9b8e65a-70d0-4fd7-8293-2da066e543f8@mit.sfmba.2027
 SUMMARY:15.338 | DUE: Coaching Session #2
 DESCRIPTION:Individual Coaching Session #2 must be completed by August 14.
 DTSTART;VALUE=DATE:20260814
@@ -482,7 +582,47 @@ CREATED:20260527T120000Z
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:c79e8d73-395a-4f11-99eb-0fe75e68805a@mit.sfmba.2027
+UID:42395175-09a0-4ffa-9a77-f2cacc879d4e@mit.sfmba.2027
+SUMMARY:15.338 | Recipe Book Creation and Gallery Walk (Section A)
+DESCRIPTION:Section A: Recipe Book Creation and Gallery Walk.
+DTSTART;TZID=America/New_York:20260819T130000
+DTEND;TZID=America/New_York:20260819T141500
+DTSTAMP:20260527T120000Z
+CREATED:20260527T120000Z
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:Class tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Class in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:27d0b272-8e25-4b3b-b356-383d477a91b0@mit.sfmba.2027
+SUMMARY:15.338 | Leadership POD Meeting #7: Leader of Choice (Section A)
+DESCRIPTION:Section A: Leadership POD Meeting #7 — Leader of Choice.
+DTSTART;TZID=America/New_York:20260819T143000
+DTEND;TZID=America/New_York:20260819T154500
+DTSTAMP:20260527T120000Z
+CREATED:20260527T120000Z
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1440M
+ACTION:DISPLAY
+DESCRIPTION:POD meeting tomorrow
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:POD meeting in 10 minutes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b271f767-522b-49df-bca3-aeb2de8a8880@mit.sfmba.2027
 SUMMARY:15.338 | Keynote Speaker Close
 DESCRIPTION:Plenary session: Keynote Speaker Close.
 DTSTART;TZID=America/New_York:20260819T154500
@@ -502,7 +642,7 @@ DESCRIPTION:Class in 10 minutes
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:72e78190-3e2a-4794-8aec-6d2f835c2426@mit.sfmba.2027
+UID:d49c97b3-8ee2-44cb-bd38-e954588b89f0@mit.sfmba.2027
 SUMMARY:15.338 | DUE: Reflection Paper #2
 DESCRIPTION:Reflection Paper #2 — 20% of grade. Submit by 11:59pm via Canvas. AI/ML tools may NOT be used for substance. NOTE: Course Schedule (p.11) lists Aug 23\; grading table (p.4) lists Aug 16 — verify in Canvas.
 DTSTART;TZID=America/New_York:20260823T235900
@@ -517,7 +657,7 @@ DESCRIPTION:Reflection Paper #2 due tomorrow
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:7f99b150-b3f5-4b7f-9e6e-36d796907e8b@mit.sfmba.2027
+UID:b08c0052-a2d8-4885-bfe3-0fac3e6f9cc6@mit.sfmba.2027
 SUMMARY:15.338 | DUE: Growth Plan Draft 2
 DESCRIPTION:Growth Plan Draft 2 — 10% of grade (P/F). Submit by 11:59pm via Canvas. AI/ML tools may NOT be used for substance.
 DTSTART;TZID=America/New_York:20260824T235900
