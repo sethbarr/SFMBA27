@@ -16,7 +16,6 @@ https://raw.githubusercontent.com/<org-or-username>/<repo>/main/ics_files/<filen
 | File | Contents |
 |------|----------|
 | `MIT_SFMBA_June_Orientation_2026.ics` | June orientation schedule |
-<!-- | `MIT_SFMBA_Summer_2026.ics` | Full summer term (all sections) | -->
 | `MIT_SFMBA_Summer_2026_SectionA.ics` | Summer term — Section A only |
 | `MIT_SFMBA_Summer_2026_SectionB.ics` | Summer term — Section B only |
 | `15809_Marketing_Strategy.ics` | 15.809 Marketing & Strategy |
