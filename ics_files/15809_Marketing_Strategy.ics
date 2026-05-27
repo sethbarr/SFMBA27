@@ -1,0 +1,590 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MIT Sloan//15.809 Marketing and Strategy//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:15.809 Marketing & Strategy
+X-WR-TIMEZONE:America/New_York
+
+BEGIN:VEVENT
+UID:15809-pre-reading-aqualisa@mit.edu
+SUMMARY:📚 READ: Aqualisa Quartz (HBS 502030) — REQUIRED BEFORE CLASS
+DESCRIPTION:Required case reading before first class on June 11.\nCase: Aqualisa Quartz: Simply a Better Shower (HBS 502030)\nAccess via Canvas: https://canvas.mit.edu/courses/38464\n\nDiscussion Questions:\n1. Why do customers and plumbers not recognize the benefits of the Quartz?\n2. What factors will determine the profits that Aqualisa will earn from the Quartz?\n\nNote: No group report required for this case.
+DTSTART;TZID=America/New_York:20260608T090000
+DTEND;TZID=America/New_York:20260608T100000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Read Aqualisa Quartz case before June 11 class
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:TOMORROW: First class — Aqualisa Quartz case must be read!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-pre-reading-apex@mit.edu
+SUMMARY:📚 READ: Apex Ski Boots (520013-PDF-ENG) — REQUIRED BEFORE CLASS
+DESCRIPTION:Required case reading before class starts in June.\nCase: Apex Ski Boots (520013-PDF-ENG)\nAccess via Canvas: https://canvas.mit.edu/courses/38464\n\nGroup Report Due: June 12 at start of class.\n\nDiscussion Questions:\n1. Why are consumers not recognizing the value of this product?\n2. Why is Apex having trouble selling through specialty stores?\n3. If successful, are there entry barriers to prevent competitors?\n4. Would a major brand be more likely to succeed with a similar product?\n5. Bargaining power analysis between Apex and dominant retailer.
+DTSTART;TZID=America/New_York:20260608T100000
+DTEND;TZID=America/New_York:20260608T110000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Read Apex Ski Boots case — report due June 12
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:TOMORROW: First class — Apex Ski Boots must be read!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-pre-reading-barco@mit.edu
+SUMMARY:📚 READ: Barco Projection Systems A (591133-PDF-ENG) — REQUIRED BEFORE CLASS
+DESCRIPTION:Required case reading before class starts in June.\nCase: Barco Projection Systems (A) (591133-PDF-ENG)\nAccess via Canvas: https://canvas.mit.edu/courses/38464\n\nGroup Report Due: June 18 at start of class.\n\nDiscussion Questions:\n1. Are Barco's dealer network, brand, and engineers important strategic resources?\n2. What decisions contributed to Barco's current problems?\n3. Who has market power?\n4. What is Sony's strategic plan and implications for Barco?\n5. What criteria must a niche market satisfy to be a good niche market?
+DTSTART;TZID=America/New_York:20260608T110000
+DTEND;TZID=America/New_York:20260608T120000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Read Barco Projection Systems — report due June 18
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:TOMORROW: First class — Barco case must be read!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-pre-reading-sephora@mit.edu
+SUMMARY:📚 READ: Sephora (KE1374) — REQUIRED BEFORE CLASS
+DESCRIPTION:Required case reading before class starts in June.\nCase: Sephora (KE1374) — new case\nAccess via Canvas: https://canvas.mit.edu/courses/38464\n\nGroup Report Due: June 23 at start of class.\n\nDiscussion Questions:\n1. How does shift from physical to online stores impact brand differentiation?\n2. How can brands differentiate in customer-facing AI tools?\n3. Which use cases could create sustainable competitive advantage?\n4. How are strategic resources (cost advantages\, brands\, relationships\, network externalities\, switching costs) impacted by AI?
+DTSTART;TZID=America/New_York:20260608T120000
+DTEND;TZID=America/New_York:20260608T130000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Read Sephora case — report due June 23
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:TOMORROW: First class — Sephora case must be read!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-pre-reading-ipl@mit.edu
+SUMMARY:📚 READ: Indian Premier League (SPM38-PDF-ENG) — REQUIRED BEFORE CLASS
+DESCRIPTION:Required case reading before class starts in June.\nCase: Indian Premier League (SPM38-PDF-ENG)\nAccess via Canvas: https://canvas.mit.edu/courses/38464\n\nGroup Report Due: July 10 at start of class.\n\nDiscussion Questions:\n1. Why was the league successful in its first season and how sustainable is this?\n2. What advantages does having franchisees managing teams provide?\n3. How do the league's goals potentially differ from team owners?\n4. What mechanisms did the league use to align objectives?\n5. Advantages and disadvantages of delaying franchise sales until after first season?
+DTSTART;TZID=America/New_York:20260608T130000
+DTEND;TZID=America/New_York:20260608T140000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Read IPL case — report due July 10
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:TOMORROW: First class — IPL case must be read!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-prereading-lostart@mit.edu
+SUMMARY:📖 READ: The Lost Art of Thinking in Large Organizations — Before Class 1
+DESCRIPTION:Required pre-reading before Class 1 (June 11).\nTopic: Introduction\nLocation: Study.net (access via Canvas)\nURL: https://canvas.mit.edu/courses/38464
+DTSTART;TZID=America/New_York:20260609T090000
+DTEND;TZID=America/New_York:20260609T100000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Read: Lost Art of Thinking in Large Organizations before Class 1 tomorrow
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-prereading-newproducts@mit.edu
+SUMMARY:📖 READ: Why Great New Products Fail — Before Class 2
+DESCRIPTION:Required pre-reading before Class 2 (June 11).\nTopic: Create Value\nLocation: Study.net (access via Canvas)\nURL: https://canvas.mit.edu/courses/38464
+DTSTART;TZID=America/New_York:20260609T100000
+DTEND;TZID=America/New_York:20260609T110000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Read: Why Great New Products Fail before Class 2 tomorrow
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-prereading-capturingvalue@mit.edu
+SUMMARY:📖 READ: Capturing Value — Before Class 4 (June 15)
+DESCRIPTION:Required pre-reading before Class 4 (June 15).\nTopic: Capture Value\nFull title: Capturing Value - What Have We Learned From Observing Firms Attempts to Differentiate?\nLocation: Canvas\nURL: https://canvas.mit.edu/courses/38464
+DTSTART;TZID=America/New_York:20260613T090000
+DTEND;TZID=America/New_York:20260613T100000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Read: Capturing Value before Class 4 on June 15
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-prereading-experiments@mit.edu
+SUMMARY:📖 READ: A Step-by-Step Guide to Smart Business Experiments — Before Class 11
+DESCRIPTION:Required pre-reading before Class 11 (June 30).\nTopic: Experimentation\nLocation: Study.net (access via Canvas)\nURL: https://canvas.mit.edu/courses/38464
+DTSTART;TZID=America/New_York:20260628T090000
+DTEND;TZID=America/New_York:20260628T100000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Read: Smart Business Experiments before Class 11 on June 30
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-prereading-bezos@mit.edu
+SUMMARY:📖 READ: Jeff Bezos 2016 Letter to Shareholders — Before Class 12
+DESCRIPTION:Required pre-reading before Class 12 (July 1).\nTopic: New Product Development\nLocation: Study.net (access via Canvas)\nURL: https://canvas.mit.edu/courses/38464
+DTSTART;TZID=America/New_York:20260629T090000
+DTEND;TZID=America/New_York:20260629T100000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Read: Bezos 2016 Letter to Shareholders before Class 12 on July 1
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-prereading-channels@mit.edu
+SUMMARY:📖 READ: Designing Supply and Distribution Channels — Before Class 15
+DESCRIPTION:Required pre-reading before Class 15 (July 9).\nTopic: Go-to-Market Strategies: Solutions\nLocation: Study.net (access via Canvas)\nURL: https://canvas.mit.edu/courses/38464
+DTSTART;TZID=America/New_York:20260707T090000
+DTEND;TZID=America/New_York:20260707T100000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Read: Designing Supply and Distribution Channels before Class 15 on July 9
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-report-apex@mit.edu
+SUMMARY:🔴 DUE: Apex Ski Boots — Group Case Report
+DESCRIPTION:GROUP CASE REPORT DUE at start of Class 3.\nMax 6 pages (can be shorter). Bullet point form acceptable.\nAnswer all discussion questions using headings.\n\nDiscussion Questions:\n1. Why are consumers not recognizing the value of this product?\n2. Why is Apex having trouble selling through specialty stores?\n3. Entry barriers if Apex is successful?\n4. Would a major brand succeed with a similar product?\n5. Bargaining power analysis.\n\nReminder: Read previous session lecture notes before writing. Submit at START of class.
+DTSTART;TZID=America/New_York:20260612T090000
+DTEND;TZID=America/New_York:20260612T093000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:1 WEEK: Apex Ski Boots group report due June 12
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:3 DAYS: Apex Ski Boots group report due June 12
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:TOMORROW: Apex Ski Boots group report due at start of class!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:2 HOURS: Submit Apex Ski Boots report at start of class today!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-report-barco@mit.edu
+SUMMARY:🔴 DUE: Barco Projection Systems — Group Case Report
+DESCRIPTION:GROUP CASE REPORT DUE at start of Class 5.\nMax 6 pages (can be shorter). Bullet point form acceptable.\nAnswer all discussion questions using headings.\n\nDiscussion Questions:\n1. Are Barco's dealer network\, brand\, and engineers important strategic resources?\n2. What decisions contributed to Barco's current problems?\n3. Who has market power?\n4. What is Sony's strategic plan and implications for Barco?\n5. What criteria must a niche market satisfy?\n\nReminder: Read previous session lecture notes before writing. Submit at START of class.
+DTSTART;TZID=America/New_York:20260618T090000
+DTEND;TZID=America/New_York:20260618T093000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:1 WEEK: Barco Projection Systems group report due June 18
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:3 DAYS: Barco Projection Systems group report due June 18
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:TOMORROW: Barco group report due at start of class!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:2 HOURS: Submit Barco report at start of class today!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-report-sephora@mit.edu
+SUMMARY:🔴 DUE: Sephora — Group Case Report
+DESCRIPTION:GROUP CASE REPORT DUE at start of Class 7.\nMax 6 pages (can be shorter). Bullet point form acceptable.\nAnswer all discussion questions using headings.\n\nDiscussion Questions:\n1. How does shift from physical to online stores impact brand differentiation?\n2. How can brands differentiate in customer-facing AI tools?\n3. Which use cases could create sustainable competitive advantage?\n4. How are strategic resources impacted by AI (cost advantages\, brands\, relationships\, network externalities\, switching costs)?\n\nReminder: Read previous session lecture notes before writing. Submit at START of class.
+DTSTART;TZID=America/New_York:20260623T090000
+DTEND;TZID=America/New_York:20260623T093000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:1 WEEK: Sephora group report due June 23
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:3 DAYS: Sephora group report due June 23
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:TOMORROW: Sephora group report due at start of class!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:2 HOURS: Submit Sephora report at start of class today!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-report-ipl@mit.edu
+SUMMARY:🔴 DUE: Indian Premier League — Group Case Report
+DESCRIPTION:GROUP CASE REPORT DUE at start of Class 16.\nMax 6 pages (can be shorter). Bullet point form acceptable.\nAnswer all discussion questions using headings.\n\nDiscussion Questions:\n1. Why was the league successful in its first season and sustainability?\n2. Advantages of franchisees managing teams?\n3. How do league goals differ from team owners?\n4. What mechanisms aligned league and team objectives?\n5. Advantages/disadvantages of delaying franchise sales?\n\nReminder: Read previous session lecture notes before writing. Submit at START of class.
+DTSTART;TZID=America/New_York:20260710T090000
+DTEND;TZID=America/New_York:20260710T093000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-P7D
+ACTION:DISPLAY
+DESCRIPTION:1 WEEK: Indian Premier League group report due July 10
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:3 DAYS: Indian Premier League group report due July 10
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:TOMORROW: IPL group report due at start of class!
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:2 HOURS: Submit IPL report at start of class today!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class1@mit.edu
+SUMMARY:🎓 CLASS 1 — Introduction & Aqualisa Quartz Discussion
+DESCRIPTION:15.809 Marketing & Strategy — Class 1\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464\n\nPreparation:\n- Read: Aqualisa Quartz case (HBS 502030)\n- Read: The Lost Art of Thinking in Large Organizations (Study.net)\n- Come prepared with discussion points\n\nNote: No group report required for this case. Model answer available after session.
+DTSTART;TZID=America/New_York:20260611T090000
+DTEND;TZID=America/New_York:20260611T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 1 — Introduction & Aqualisa Quartz
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class2@mit.edu
+SUMMARY:🎓 CLASS 2 — Create Value: Why Great Products Fail
+DESCRIPTION:15.809 Marketing & Strategy — Class 2\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464\n\nPreparation:\n- Read: Why Great New Products Fail (Study.net)\n- Come prepared with discussion points and examples
+DTSTART;TZID=America/New_York:20260611T110000
+DTEND;TZID=America/New_York:20260611T123000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 2 — Create Value: Why Great Products Fail
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class3@mit.edu
+SUMMARY:🎓 CLASS 3 — Apex Ski Boots Case Discussion [REPORT DUE]
+DESCRIPTION:15.809 Marketing & Strategy — Class 3\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464\n\n⚠️ GROUP REPORT DUE AT START OF CLASS\n\nPreparation:\n- Read: Apex Ski Boots case\n- Submit group report at start of class
+DTSTART;TZID=America/New_York:20260612T090000
+DTEND;TZID=America/New_York:20260612T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 3 — Apex Ski Boots. REPORT DUE AT START!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class4@mit.edu
+SUMMARY:🎓 CLASS 4 — Capture Value
+DESCRIPTION:15.809 Marketing & Strategy — Class 4\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464\n\nPreparation:\n- Read: Capturing Value - What Have We Learned From Observing Firms Attempts to Differentiate? (Canvas)
+DTSTART;TZID=America/New_York:20260615T090000
+DTEND;TZID=America/New_York:20260615T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 4 — Capture Value
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class5@mit.edu
+SUMMARY:🎓 CLASS 5 — Barco Projection Systems [REPORT DUE]
+DESCRIPTION:15.809 Marketing & Strategy — Class 5\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464\n\n⚠️ GROUP REPORT DUE AT START OF CLASS\n\nPreparation:\n- Read: Barco Projection Systems case\n- Submit group report at start of class
+DTSTART;TZID=America/New_York:20260618T090000
+DTEND;TZID=America/New_York:20260618T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 5 — Barco Projection Systems. REPORT DUE AT START!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class6@mit.edu
+SUMMARY:🎓 CLASS 6 — Deliver Value
+DESCRIPTION:15.809 Marketing & Strategy — Class 6\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464\n\nPreparation:\n- Read: Alibaba Snr Exec On Apple (recommended)\n- Read: Delivering Value: Collaborating & Competing in the Value Chain (Canvas)
+DTSTART;TZID=America/New_York:20260622T090000
+DTEND;TZID=America/New_York:20260622T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 6 — Deliver Value
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class7@mit.edu
+SUMMARY:🎓 CLASS 7 — Sephora Case Discussion [REPORT DUE]
+DESCRIPTION:15.809 Marketing & Strategy — Class 7\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464\n\n⚠️ GROUP REPORT DUE AT START OF CLASS\n\nPreparation:\n- Read: Sephora case\n- Submit group report at start of class
+DTSTART;TZID=America/New_York:20260623T090000
+DTEND;TZID=America/New_York:20260623T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 7 — Sephora. REPORT DUE AT START!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class8@mit.edu
+SUMMARY:🎓 CLASS 8 — Strategy Summary
+DESCRIPTION:15.809 Marketing & Strategy — Class 8\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464
+DTSTART;TZID=America/New_York:20260625T090000
+DTEND;TZID=America/New_York:20260625T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 8 — Strategy Summary
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class9@mit.edu
+SUMMARY:🎓 CLASS 9 — Pricing
+DESCRIPTION:15.809 Marketing & Strategy — Class 9\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464
+DTSTART;TZID=America/New_York:20260626T090000
+DTEND;TZID=America/New_York:20260626T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 9 — Pricing
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class10@mit.edu
+SUMMARY:🎓 CLASS 10 — Data and Analytics
+DESCRIPTION:15.809 Marketing & Strategy — Class 10\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464
+DTSTART;TZID=America/New_York:20260629T090000
+DTEND;TZID=America/New_York:20260629T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 10 — Data and Analytics
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class11@mit.edu
+SUMMARY:🎓 CLASS 11 — Experimentation
+DESCRIPTION:15.809 Marketing & Strategy — Class 11\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464\n\nPreparation:\n- Read: A Step-by-Step Guide to Smart Business Experiments (Study.net)
+DTSTART;TZID=America/New_York:20260630T090000
+DTEND;TZID=America/New_York:20260630T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 11 — Experimentation
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class12@mit.edu
+SUMMARY:🎓 CLASS 12 — New Product Development
+DESCRIPTION:15.809 Marketing & Strategy — Class 12\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464\n\nPreparation:\n- Read: Jeff Bezos 2016 Letter to Shareholders (Study.net)
+DTSTART;TZID=America/New_York:20260701T090000
+DTEND;TZID=America/New_York:20260701T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 12 — New Product Development
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class13@mit.edu
+SUMMARY:🎓 CLASS 13 — Managing Strategic Uncertainty
+DESCRIPTION:15.809 Marketing & Strategy — Class 13\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464
+DTSTART;TZID=America/New_York:20260706T090000
+DTEND;TZID=America/New_York:20260706T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 13 — Managing Strategic Uncertainty
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class14@mit.edu
+SUMMARY:🎓 CLASS 14 — Go-to-Market Strategies: Problems
+DESCRIPTION:15.809 Marketing & Strategy — Class 14\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464
+DTSTART;TZID=America/New_York:20260707T090000
+DTEND;TZID=America/New_York:20260707T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 14 — Go-to-Market Strategies: Problems
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class15@mit.edu
+SUMMARY:🎓 CLASS 15 — Go-to-Market Strategies: Solutions
+DESCRIPTION:15.809 Marketing & Strategy — Class 15\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464\n\nPreparation:\n- Read: Designing Supply and Distribution Channels (Study.net)
+DTSTART;TZID=America/New_York:20260709T090000
+DTEND;TZID=America/New_York:20260709T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:2
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 15 — Go-to-Market Strategies: Solutions
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+UID:15809-class16@mit.edu
+SUMMARY:🎓 CLASS 16 — Indian Premier League [REPORT DUE]
+DESCRIPTION:15.809 Marketing & Strategy — Class 16\nInstructor: Duncan Simester\nCanvas: https://canvas.mit.edu/courses/38464\n\n⚠️ GROUP REPORT DUE AT START OF CLASS\n\nPreparation:\n- Read: Indian Premier League case\n- Submit group report at start of class
+DTSTART;TZID=America/New_York:20260710T090000
+DTEND;TZID=America/New_York:20260710T103000
+DTSTAMP:20260521T000000Z
+PRIORITY:1
+STATUS:CONFIRMED
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:1 HOUR: Class 16 — Indian Premier League. REPORT DUE AT START!
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR
